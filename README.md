@@ -30,12 +30,18 @@ Ollama
 
 Python packages
 - pip install ollama
-- pip install speechrecognition
+- pip install customtkinter
+- pip install ollama
+- pip install edge-tts
+- pip install SpeechRecognition
 - pip install sounddevice
-- pip install numpy
-- pip install pyaudio
-- pip install TTS
-- pip install colorama
+- pip install soundfile
+- pip install psutil
+- pip install pyautogui
+- pip install pygetwindow
+- pip install screen-brightness-control
+- pip install pyserial
+- pip install requests
 
 ## Run Jarvis:
 python assistant.py
