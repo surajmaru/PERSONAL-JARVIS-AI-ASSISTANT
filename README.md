@@ -29,13 +29,13 @@ ollama pull mistral
 ## 🛠 Requirements
 
 Python packages
-pip install ollama
-pip install speechrecognition
-pip install sounddevice
-pip install numpy
-pip install pyaudio
-pip install TTS
-pip install colorama
+- pip install ollama
+- pip install speechrecognition
+- pip install sounddevice
+- pip install numpy
+- pip install pyaudio
+- pip install TTS
+- pip install colorama
 
 ## Run Jarvis:
 python assistant.py
