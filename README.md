@@ -1,6 +1,6 @@
-🧠 Jarvis – My Personal AI Assistant
+# 🧠 Jarvis – My Personal AI Assistant (Python + Ollama + TTS + STT)
 
-Hey! This is Jarvis, my personal AI assistant — my own little version of Iron Man’s J.A.R.V.I.S. 😄
+## Hey! This is Jarvis, my personal AI assistant — my own little version of Iron Man’s J.A.R.V.I.S. 😄
 It runs completely offline, powered by Ollama with the Mistral model, so everything happens locally and stays private.
 
 Jarvis listens, thinks, and talks back instantly using Edge TTS for natural, smooth voice responses. It supports both voice and text input, replies in real time, and feels super responsive — no long delays or robotic speech.
