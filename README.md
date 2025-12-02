@@ -5,30 +5,47 @@ It runs completely offline, powered by Ollama with the Mistral model, so everyth
 
 Jarvis listens, thinks, and talks back instantly using Edge TTS for natural, smooth voice responses. It supports both voice and text input, replies in real time, and feels super responsive — no long delays or robotic speech.
 
-🚀 What It Can Do
+## 🚀 What It Can Do
+
 Real-time conversation (voice + text)
+Real-time speech recognition (STT)
+Ultra-smooth voice output with Coqui TTS
+Keyboard fallback when STT fails
+Continuous conversation loop ("listening → LLM → speaking → listening")
 Opens apps, gives system info, and answers questions
-Smooth, fluent voice output with Edge TTS
-Works completely offline — fast and private
+Easy to extend with tools (time, web search, device control, etc.)
+Build-ready GUI version with CustomTkinter (optional)
 Has memory, real-time streaming speech, and basic smart home control
+Works completely offline — fast and private
 
-⚙️ Built With
-Python
-Ollama + Mistral (local LLM)
-Edge TTS for speech
-CustomTkinter for GUI
+## 🧠 How To Run
 
-🧠 How To Run
-Install Ollama and pull the Mistral model:
+Ollama
+Install Ollama (Windows/Linux/Mac):
+https://ollama.com/download
+Pull a model:
 ollama pull mistral
 
+## 🛠 Requirements
 
-Install Python dependencies:
-pip install edge-tts customtkinter
+Python packages
+pip install ollama
+pip install speechrecognition
+pip install sounddevice
+pip install numpy
+pip install pyaudio
+pip install TTS
+pip install colorama
 
-
-Run Jarvis:
+## Run Jarvis:
 python assistant.py
+
+## Example Usage
+
+You: Jarvis, what's the weather today?
+Jarvis (STT): Recognized speech...
+Jarvis (LLM): Generating word-by-word...
+Jarvis (TTS): Speaking in real-time...
 
 💡 About
 Jarvis is my take on building a real-time, offline AI assistant that actually feels alive — fast, private, and smart.
