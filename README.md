@@ -20,31 +20,13 @@ Jarvis listens, thinks, and talks back instantly using Edge TTS for natural, smo
 
 ## 🧠 How To Run
 
-Ollama
-- Install Ollama (Windows/Linux/Mac):
-- https://ollama.com/download
-- Pull a model:
-- ollama pull mistral
+- Download and install ollama and mistral on your computer.
 
-## 🛠 Requirements
+-- 1. (download ollama)
+-- 2. (type "ollama pull mistral") it will download then..
+-- 3. (then type "ollama run mistral")
 
-Python packages
-- pip install ollama
-- pip install customtkinter
-- pip install ollama
-- pip install edge-tts
-- pip install SpeechRecognition
-- pip install sounddevice
-- pip install soundfile
-- pip install psutil
-- pip install pyautogui
-- pip install pygetwindow
-- pip install screen-brightness-control
-- pip install pyserial
-- pip install requests
-
-## Run Jarvis:
-python assistant.py
+- Then just run the installer and install the ai and have fun! 🫡🔥
 
 ## Example Usage
 
