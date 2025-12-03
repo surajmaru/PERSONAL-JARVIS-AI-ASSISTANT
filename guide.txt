@@ -1,11 +1,3 @@
 Download and install ollama and mistral on your computer.
-Then just paste this py file in a folder.
-Open that folder in a cmd.
-run that py file by (python assistant.py)(or whatever you name it as).
-Install all the required libraries and packages.
-Make sure to have internet ON because the EDGE TTS requires internet to process the voice.
-Then enjoy your complete fully functional Assistant.
 
-Modify as you need it :)
-
-
+Then just run the installer and install the ai and have fun! 🫡🔥
