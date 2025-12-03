@@ -1,7 +1,7 @@
-Download and install ollama and mistral on your computer.
+- Download and install ollama and mistral on your computer.
 
-1. (download ollama)
-2. (type "ollama pull mistral") it will download then..
-3. (then type "ollama run mistral")
+- (download ollama) from: https://ollama.com/
+- (type "ollama pull mistral" in the cmd) it will download the model automatically..
+- (then type "ollama run mistral") this will make the ai run in the background.
 
-Then just run the installer and install the ai and have fun! 🫡🔥
+- Then just run the installer and install the ai and have fun! 🫡🔥
