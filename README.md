@@ -22,9 +22,9 @@ Jarvis listens, thinks, and talks back instantly using Edge TTS for natural, smo
 
 - Download and install ollama and mistral on your computer.
 
-- 1. (download ollama)
-- 2. (type "ollama pull mistral") it will download then..
-- 3. (then type "ollama run mistral")
+- (download ollama)
+- (type "ollama pull mistral") it will download then..
+- (then type "ollama run mistral")
 
 - Then just run the installer and install the ai and have fun! 🫡🔥
 
